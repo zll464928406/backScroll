@@ -1,7 +1,8 @@
 # backScroll
 
 >**效果图**
-/Users/zhanglinglin/GitHup/backScroll/test.gif
+
+<img src="test.gif" height="400"/>
 
 >**简介**
 
